@@ -1,0 +1,15 @@
+[{
+   "name":"Oleg",
+   "phones":["+996555075076","+996505075076"],
+   "emails":["legyss@mail.ru"]
+},
+{
+   "name":"Max",
+   "phones":["+996555075077"],
+   "emails":[]
+},
+{
+   "name":"Mash",
+   "phones":[],
+   "emails":["mash@mai.ru","mash2@mail.ru"]
+}]
